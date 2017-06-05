@@ -7,5 +7,6 @@ Made with:
 - CSS3 (Scss and Flexbox) with BEM
 - jQuery
 - Slick carousel/slider
+- Lightbox 2
 
 Live - https://michalgrochowski.github.io/interiorideas1/
